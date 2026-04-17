@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ### Run the HIRE-Agent
 We provide two methods as the baseline:
 - `HIRE_Agent\HIRE_Agent(FT).ipynb` applies the BERT model as the Front-end Agent to predict the intent and slots.
-- `HIRE_Agent\HIRE_Agent(ICL).ipynb` applies the LLM as the Front-end Agent and use ICL to predict the intent and slots.
+- `HIRE_Agent\HIRE_Agent(ICL).ipynb` applies the LLM as the Front-end Agent and uses ICL to predict the intent and slots.
 
 ## Contact Us
 If you have any questions regarding the project's code or dataset, please feel free to contact me at yindongzhang@uic.edu.cn.
