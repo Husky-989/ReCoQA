@@ -1,6 +1,6 @@
 # ReCoQA: A Benchmark for Tool-Augmented and Multi-Step Reasoning in Real Estate Question and Answering
 
-**This work has been accepted as the Main Conference of ACL 2026.**
+**This work has been accepted as the Main Conference of ACL 2026.** [Paper Link](https://arxiv.org/abs/2604.17944)
 
 ---
 
@@ -44,7 +44,18 @@ We provide two methods as the baseline:
 If you have any questions regarding the project's code or dataset, please feel free to contact me at yindongzhang@uic.edu.cn.
 
 ## Citation
-If you find this work useful for you, please cite it and we will update the arxiv link soon.
+If you find this work useful for you, please cite it.
+```
+@misc{zhang2026,
+      title={ReCoQA: A Benchmark for Tool-Augmented and Multi-Step Reasoning in Real Estate Question and Answering}, 
+      author={Yindong Zhang and Wenmian Yang and Yiquan Zhang and Weijia Jia},
+      year={2026},
+      eprint={2604.17944},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.17944}, 
+}
+```
 
 ## Acknowledgements
 The acquisition of real estate data is supported by [Elmleaf Ltd.(Shanghai)](https://www.elmleaf.com.cn/dataset).
